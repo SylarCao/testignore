@@ -3,6 +3,8 @@
 
 
 1. add field to .gitignore
+   不是 vim .ignore里的
+   用sourceTree打开
 
 2. 
 git rm . -r --cached
